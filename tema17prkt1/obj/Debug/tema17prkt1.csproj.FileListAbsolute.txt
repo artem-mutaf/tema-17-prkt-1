@@ -1,0 +1,7 @@
+C:\Users\Kab-35-6\Desktop\tema17prkt1\bin\Debug\tema17prkt1.exe.config
+C:\Users\Kab-35-6\Desktop\tema17prkt1\bin\Debug\tema17prkt1.exe
+C:\Users\Kab-35-6\Desktop\tema17prkt1\bin\Debug\tema17prkt1.pdb
+C:\Users\Kab-35-6\Desktop\tema17prkt1\obj\Debug\tema17prkt1.csproj.AssemblyReference.cache
+C:\Users\Kab-35-6\Desktop\tema17prkt1\obj\Debug\tema17prkt1.csproj.CoreCompileInputs.cache
+C:\Users\Kab-35-6\Desktop\tema17prkt1\obj\Debug\tema17prkt1.exe
+C:\Users\Kab-35-6\Desktop\tema17prkt1\obj\Debug\tema17prkt1.pdb
