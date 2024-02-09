@@ -19,7 +19,7 @@ namespace tema17prkt1
             List<Person> persons = new List<Person>();
             persons.Add(new Person("Артём","Мутаф",17));
             persons.Add(new Employee("Артём", "Мутаф", 17, "Microsoft", "Programmier"));
-            persons.Add(new Student("Артём", "Мутаф", 17,2));
+            persons.Add(new Student("Артём", "Мутаф", 17,new DateTime(2005,07,03),2));
             foreach(var sigma in persons)
             {
                 sigma.Print();
