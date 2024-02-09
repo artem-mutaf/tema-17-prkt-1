@@ -1,7 +1,0 @@
-D:\Projects VStd\tema17prkt1\bin\Debug\tema17prkt1.exe.config
-D:\Projects VStd\tema17prkt1\bin\Debug\tema17prkt1.exe
-D:\Projects VStd\tema17prkt1\bin\Debug\tema17prkt1.pdb
-D:\Projects VStd\tema17prkt1\obj\Debug\tema17prkt1.csproj.AssemblyReference.cache
-D:\Projects VStd\tema17prkt1\obj\Debug\tema17prkt1.csproj.CoreCompileInputs.cache
-D:\Projects VStd\tema17prkt1\obj\Debug\tema17prkt1.exe
-D:\Projects VStd\tema17prkt1\obj\Debug\tema17prkt1.pdb
