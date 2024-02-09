@@ -26,9 +26,9 @@ namespace tema17prkt1
         public Employee(string name, string surname, int age, string company, string job) : base(name, surname, age)
         { this.job = job; this.company = company; }
 
-        virtual public new void Print()
+        public override void Print()
         {
-
+base.Print();
             WriteLine($"Компания: {company}\nРабота: {job}");
         }
     }
