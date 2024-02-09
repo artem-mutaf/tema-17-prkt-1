@@ -9,7 +9,7 @@ namespace tema17prkt1
 {
     class Student:Person
     {
-        DateTime rod = new DateTime(2006, 7, 4);
+        DateTime rod;
         int curs;
         public DateTime Rod
         {
@@ -24,13 +24,16 @@ namespace tema17prkt1
         public Student() { }
 
 
-        public Student(string name, string surname, int age, int curs) : base(name, surname, age)
-        { this.curs = curs; }
+        public Student(string name, string surname, int age, int curs,DateTime rod) : base(name, surname, age)
+        { 
+        this.curs = curs; 
+        this.rod=rod;
+        }
 
-        virtual public new void Print()
+        public override void Print()
         {
             base.Print();
-            Write($"Дата рождения:{rod.ToString("dd MM yyyy")}\nКурс: {curs}\n");
+            Write($"Дата рождения:{rod.ToShortDateString())}\nКурс: {curs}\n");
         }
     }
 }
